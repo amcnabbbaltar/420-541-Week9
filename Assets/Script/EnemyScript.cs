@@ -36,7 +36,7 @@ public class EnemyScript : MonoBehaviour
 
     public bool SeePlayer()
     {
-       
+       return false;
     }
     
     public bool HasReachedDestination()
